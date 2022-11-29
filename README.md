@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @MasonGrose!
-- 🌱 I like to program in PHP, HTML, Java, and JavaScript. 
-- 💻 I'm not usually busy.
-- 🖨️ Currently no way of contact.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
